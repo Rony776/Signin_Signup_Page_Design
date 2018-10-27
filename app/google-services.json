@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "792418509236",
+    "firebase_url": "https://tech-news-bangla.firebaseio.com",
+    "project_id": "tech-news-bangla",
+    "storage_bucket": "tech-news-bangla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792418509236:android:5f11c76ee7627e9e",
+        "android_client_info": {
+          "package_name": "techdoctorbd.com.technewsbangla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792418509236-hg0jrufpetqhlvrh0qrab300n0eniifu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techdoctorbd.com.technewsbangla",
+            "certificate_hash": "c8841512cad6dd104303c05f97c5032358aa6ee7"
+          }
+        },
+        {
+          "client_id": "792418509236-v6nsmv4f7beu3vvep2ivj3nij890vrnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAqRTywFu5q74Xz9XvuqQzUuaYKMr12p8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792418509236-v6nsmv4f7beu3vvep2ivj3nij890vrnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

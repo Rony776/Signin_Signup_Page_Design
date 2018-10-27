@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tech News Bangla</string>
+    <string name="register">REGISTER</string>
+    <string name="user_name">User Name</string>
+    <string name="re_type_password">Confirm Password</string>
+    <string name="i_agree_to_the_term_of_condition">I agree to the Terms and Conditions</string>
+    <string name="already_have_an_account_login_here">Already have an account ? Login Here</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="log_in">Log in</string>
+    <string name="dont_have_account">Dont have account ? Register Here</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="invalid_email_or_password">Invalid Email or Password</string>
+</resources>
